@@ -1,6 +1,6 @@
 # ConverterWebContent
 
-**ConverterWebContent tool help you to convert from json to x-www-form-urlencoded  or from x-www-form-urlencoded  to json the script made in python3 so it easy to use **
+**ConverterWebContent tool help you to convert from json to x-www-form-urlencoded  or from x-www-form-urlencoded  to json the script made in python3 so it easy to use**
 > used 
 - clone the repo and then install python 3 interpreter 
 - use python3 ConverterWebContent.py -t your_data for example "{"arg1":true, "arg2":"done"}" -f which format you want to convert it for example html
