@@ -7,3 +7,5 @@
 - the output  arg1=true&arg2=done
 
 ***This tools support just two format json and html feel free to add your fomrat or DM to put your format in that script***
+
+influenced By that write up https://medium.com/bugbountywriteup/bounty-tip-how-to-push-injection-through-json-xml-stubs-for-api-699f4959fc5
